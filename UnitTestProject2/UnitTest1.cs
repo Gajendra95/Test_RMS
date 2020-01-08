@@ -19,7 +19,7 @@ namespace UnitTestProject2
         [Test]
         public void test1()
         {
-            string Url = "http://172.16.51.168/RMS_SVN/Login.aspx";
+            string Url = "http://172.16.51.168/RMS_Build/Login.aspx";
             IWebDriver driver = new ChromeDriver();
 
 
