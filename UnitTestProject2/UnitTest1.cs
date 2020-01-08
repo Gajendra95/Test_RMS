@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using OpenQA.Selenium.Interactions;
 using NUnit.Framework;
 
-namespace UnitTestProject
+namespace UnitTestProject2
 {
     [TestFixture]
     public class Class1
